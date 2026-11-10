@@ -1,0 +1,1 @@
+{"apk":"https://raw.githubusercontent.com/cmwz668/FileShare/main/apk/FileShare.apk","version":"v1.4.12","notes":"修复在线更新失败：GitHub 接口限流时自动改用其他方式检查与下载。"}
